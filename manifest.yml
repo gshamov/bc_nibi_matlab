@@ -1,0 +1,9 @@
+---
+name: MATLAB (legacy)
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: "This app will launch a [MATLAB] Desktop GUI on the Nibi cluster. \r\nPlease
+  setup your [License] first, as documented!\r\n[MATLAB]: https://www.mathworks.com/products/matlab.html\r\n[License]:
+  https://docs.alliancecan.ca/wiki/MATLAB/en#Using_an_external_license\r\n"
+icon: fas://cog
